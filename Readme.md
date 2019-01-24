@@ -1,6 +1,6 @@
 # Личный проект «Техномарт»
 
-* Студент: [elen](https://up.htmlacademy.ru/htmlcss/24/user/443721)..
+* Студент: [elen](https://up.htmlacademy.ru/htmlcss/24/user/443721).
 * Наставник: Влад Башилов.
 
 ---
